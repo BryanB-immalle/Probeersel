@@ -8,3 +8,6 @@ Dit is mijn eerste repository, bedoeld om 'git' en 'GitHub' te leren gebruiken.
  
  Mijn leerkracht zegt wel eens:
  > Markdown is een zeer handige opmaaktaal voor eenvoudige tekstjes!
+
+ ## Visual Studio Code 
+ Visual Studio Code is toch **echt** wel een editor met veel mogelijkheden!
