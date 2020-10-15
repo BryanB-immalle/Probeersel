@@ -11,3 +11,6 @@ Dit is mijn eerste repository, bedoeld om 'git' en 'GitHub' te leren gebruiken.
 
  ## Visual Studio Code 
  Visual Studio Code is toch **echt** wel een editor met veel mogelijkheden!
+ 
+ Test 123
+ 
